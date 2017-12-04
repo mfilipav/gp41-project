@@ -1,5 +1,5 @@
 # Proposing potential HIV Env-stabilizing mutations with RosettaDesign and MD simulations
-## Paper draft and figures in hiv_env_trimer_stabilizitation_draft.pdf and hiv_env_trimer_stabilizitation_figures.pdf
+(The draft paper and figures are found in hiv_env_trimer_stabilizitation_draft.pdf and hiv_env_trimer_stabilizitation_figures.pdf)
 
 ## Molecular dynamics simulations reveal regions of instability on BG505 SOSIP HIV Envelope glycoprotein
 
